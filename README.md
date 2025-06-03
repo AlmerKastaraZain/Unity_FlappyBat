@@ -27,10 +27,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/AlmerKastaraZain/Unity_FlappyBat">
-    <img src="https://github.com/user-attachments/assets/89803fad-72ba-4b44-a52f-2371cd0889d4" width="80px" height="80px" alt="Project Logo"/>
+    <img src="https://github.com/user-attachments/assets/a24dd000-278b-43b7-b47d-3cc802909754" width="80px" height="80px" alt="Project Logo"/>
   </a>
 
-  <h3 align="center">FlappyBad</h3>
+  <h3 align="center">FlappyBat</h3>
 
   <p align="center">
     A Flappy Bird inspired game featuring a bat, made in Unity.
@@ -76,7 +76,6 @@ FlappyBad is a simple and fun arcade-style game inspired by the classic Flappy B
 ### Built With
 
 [![Unity][unity-shield]][unity-url]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_engine_logo.svg/128px-Unity_engine_logo.svg.png" width="24" alt="Unity Logo" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,7 +147,9 @@ See the [open issues](https://github.com/AlmerKastaraZain/Unity_FlappyBat/issues
 
 ## Contribution
 
-Almer Kastara Zain - Game Developer
+Almer Kastara Zain - Game Developer <br>
+Ahmad Varian Sholeh - Designer and Animations <br>
+Z3ro - Music
 
 Contributions are welcome! If you have suggestions for improvements or want to fix a bug:
 1.  Fork the Project
